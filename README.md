@@ -28,5 +28,5 @@ http://localhost:3001/ping
 
 ### Response
 ~~~bash
-ping pong
+pong
 ~~~
