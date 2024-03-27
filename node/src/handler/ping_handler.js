@@ -12,7 +12,7 @@ class PingHandler {
   }
 
   static ping(req, res) {
-    this.sendResponse(res, 200, 'text/plain', 'ping pong');
+    this.sendResponse(res, 200, 'text/plain', 'pong');
   }
 
   static notFound(req, res) {
